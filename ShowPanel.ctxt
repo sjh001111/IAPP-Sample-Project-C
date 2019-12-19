@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ShowPanel
+comment1.params=cinema
+comment1.target=ShowPanel(model.Cinema)
+comment2.params=
+comment2.target=void\ setup()
+comment3.params=
+comment3.target=void\ build()
+numComments=4
